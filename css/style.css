@@ -16,9 +16,9 @@
 html,
 body {
   width: 100%;
-  background: #4568DC;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #B06AB3, #4568DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #ffffff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #d98adb, #a6b6e6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #d98adb, #a6b6e6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   margin: 0;
   padding: 0;
